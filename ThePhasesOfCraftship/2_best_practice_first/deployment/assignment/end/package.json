@@ -14,6 +14,7 @@
     "test:infra:all": "npm run test:infra --workspaces --if-present",
     "test:infra:back": "npm run test:infra --workspace=@dddforum/backend",
     "test:unit:back": "npm run test:unit --workspace=@dddforum/backend",
+    "test:unit": "npm run test:unit --workspaces --if-present",
     "clean": "npm run clean --workspaces --if-present",
     "build": "npm run build --workspaces --if-present",
     "lint": "npm run lint --workspaces --if-present",
