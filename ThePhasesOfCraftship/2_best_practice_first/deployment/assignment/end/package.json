@@ -54,6 +54,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^6.9.13"
+    "nodemailer": "^6.9.13",
+    "tsconfig-paths": "^4.2.0"
   }
 }
